@@ -1,0 +1,12 @@
+.bg-login-image{
+    background: url("../img/Biblioteca_login.jpg");
+    background-position: center ; 
+    background-size: cover ; 
+    border: 0px ;
+    border-radius: 10px ;
+    
+}
+.sizeDiv{
+   width:40 vw ;
+   
+}
